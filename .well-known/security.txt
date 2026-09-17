@@ -1,0 +1,6 @@
+Contact: mailto:publish@harmonypublishing.net
+Expires: 2027-09-17T00:00:00.000Z
+Preferred-Languages: en
+Canonical: https://harmonypublishingreviews.com/.well-known/security.txt
+Policy: https://harmonypublishing.net/terms-of-service
+ACKNOWLEDGMENTS: We thank everyone who reports issues responsibly.
